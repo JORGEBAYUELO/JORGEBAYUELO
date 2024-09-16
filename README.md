@@ -1,17 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Bayuelo
 =====================================================================================================================================
 
-Unreal Engine 3D Artist | Technical Artist
+Junior System Administrator | Junior DevOps Engineer
 ------------------------------------------
 
-Passionate 3D artist and technical wizard with a proven track record in Unreal Engine, Pixel Streaming, VR experiences, and lighting design. Proficient in 3D modeling using tools like 3D Studio Max, and adept at utilizing software such as Vray, Photoshop, and Davinci Resolve to bring creative visions to life. Excelling in creating immersive environments and pushing the boundaries of visual storytelling in virtual spaces.
+As a Junior System Administrator, I'm leveraging my decade-long background in technical 3D artistry to build a robust career in IT. My current focus includes:
+
+- Pursuing RHCSA certification to solidify my system administration skills
+- Gaining hands-on experience in AWS cloud computing
+- Developing expertise in network and software troubleshooting
+
+My unique blend of creative problem-solving from my 3D artist days, combined with strong communication and leadership skills, allows me to approach IT challenges with a fresh perspective. I'm passionate about technology and committed to continuous learning in this fast-paced field.
 
 * 🌍  I'm based in Dallas, TX
-* 🖥️  See my portfolio at [ArtStation](http://www.artstation.com/myartstation/projects)
+* 🖥️  See my portfolio at [Website](https://jorgebayuelo.github.io/My-Web-DevOps-Portfolio/)
 * ✉️  You can contact me at [jorge3design@gmail.com](mailto:jorge3design@gmail.com)
-* 🚀  I'm currently working on [Action Roguelike](http://github.com/JORGEBAYUELO/ActionRoguelike)
-* 🧠  I'm learning Professional Game Development in C++ and Unreal Engine, Git and GitHub
-* ⚡  I'm a Coffee Lover
+* 🚀  I'm currently working on [emartapp-project](https://github.com/JORGEBAYUELO/emartapp-project)
+* 🧠  I'm currently preparing for RHCSA certification
+* ☕  I'm a Coffee Lover
 
 ### Skills
 
