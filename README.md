@@ -13,7 +13,7 @@ As a Junior System Administrator, I'm leveraging my decade-long background in te
 My unique blend of creative problem-solving from my 3D artist days, combined with strong communication and leadership skills, allows me to approach IT challenges with a fresh perspective. I'm passionate about technology and committed to continuous learning in this fast-paced field.
 
 * 🌍  I'm based in Dallas, TX
-* 🖥️  See my portfolio at [Website](https://jorgebayuelo.github.io/My-Web-DevOps-Portfolio/)
+* 🖥️  See my portfolio at [Website](https://jorgebayuelo.com/)
 * ✉️  You can contact me at [jorge3design@gmail.com](mailto:jorge3design@gmail.com)
 * 🚀  I'm currently working on [emartapp-project](https://github.com/JORGEBAYUELO/emartapp-project)
 * 🧠  I'm currently preparing for RHCSA certification
