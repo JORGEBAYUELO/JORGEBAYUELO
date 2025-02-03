@@ -15,8 +15,8 @@ My unique blend of creative problem-solving from my 3D artist days, combined wit
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [Website](https://jorgebayuelo.com/)
 * ✉️  You can contact me at [jorge3design@gmail.com](mailto:jorge3design@gmail.com)
-* 🚀  I'm currently working on [emartapp-project](https://github.com/JORGEBAYUELO/emartapp-project)
-* 🧠  I'm currently preparing for RHCSA certification
+* 🚀  I'm currently working on [ActiveDirectoryHomeLab](https://github.com/JORGEBAYUELO/ActiveDirectoryHomeLab/blob/main/README.md#vmware-setup)
+* 🧠  I'm currently preparing for my CompTIA Network+ Certification
 * ☕  I'm a Coffee Lover
 
 ### Skills
