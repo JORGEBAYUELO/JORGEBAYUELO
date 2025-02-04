@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Specialist | Junior System Administrator
 ------------------------------------------
 
-As an IT Specialist & Junior System Administrator, I'm leveraging my decade-long background in technical 3D artistry to build a robust career in IT. My current focus includes:
+I’ve always been the kind of person who loves solving technical puzzles. My journey with technology started when I was 13 years old, tinkering with computers, troubleshooting issues, and eventually building my own PCs. That hands-on passion for IT naturally grew over the years, leading me to explore Linux, system administration, and cloud technologies.
 
-- Pursuing CompTIA Network+ certification to solidify my system Networking skills
-- Developing expertise in network and software troubleshooting
-- Gaining hands-on experience in AWS cloud computing
+I originally worked as a Technical Artist in Unreal Engine, where I spent years troubleshooting complex issues, automating workflows, and optimizing 3D environments. But over time, I realized my real passion was in IT Support and System Administration so I made the leap into the field.
 
-My unique blend of creative problem-solving from my 3D artist days, combined with strong communication and leadership skills, allows me to approach IT challenges with a fresh perspective. I'm passionate about technology and committed to continuous learning in this fast-paced field.
+Now, I focus on keeping systems running smoothly, solving IT problems, and making technology work better for people. I’ve earned my AWS Certified Cloud Practitioner and CompTIA A+ certifications, and I’m currently working on my CompTIA Network+ to strengthen my networking knowledge.
+
+I’ve had hands-on experience with Linux system administration, AWS cloud services, IT troubleshooting, and system support. I love digging into technical issues, figuring things out, and making IT operations more efficient.
+
+Right now, I’m looking for opportunities in IT Support and System Administration, but my long-term goal is to grow into a DevOps Engineer, where I can combine my love for automation, cloud computing, and problem-solving.
+
+If you’re into IT, cloud, or just love geeking out over tech, let’s connect! 🚀
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [Website](https://jorgebayuelo.com/)
