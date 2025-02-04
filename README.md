@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Specialist | Junior System Administrator
 ------------------------------------------
 
-As a IT Specialist & Junior System Administrator, I'm leveraging my decade-long background in technical 3D artistry to build a robust career in IT. My current focus includes:
+As an IT Specialist & Junior System Administrator, I'm leveraging my decade-long background in technical 3D artistry to build a robust career in IT. My current focus includes:
 
 - Pursuing CompTIA Network+ certification to solidify my system Networking skills
 - Developing expertise in network and software troubleshooting
