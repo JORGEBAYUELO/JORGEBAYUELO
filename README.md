@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Bayuelo
 =====================================================================================================================================
 
-Junior System Administrator | Junior DevOps Engineer
+IT Specialist | Junior System Administrator
 ------------------------------------------
 
-As a Junior System Administrator, I'm leveraging my decade-long background in technical 3D artistry to build a robust career in IT. My current focus includes:
+As a IT Specialist & Junior System Administrator, I'm leveraging my decade-long background in technical 3D artistry to build a robust career in IT. My current focus includes:
 
-- Pursuing RHCSA certification to solidify my system administration skills
-- Gaining hands-on experience in AWS cloud computing
+- Pursuing CompTIA Network+ certification to solidify my system Networking skills
 - Developing expertise in network and software troubleshooting
+- Gaining hands-on experience in AWS cloud computing
 
 My unique blend of creative problem-solving from my 3D artist days, combined with strong communication and leadership skills, allows me to approach IT challenges with a fresh perspective. I'm passionate about technology and committed to continuous learning in this fast-paced field.
 
