@@ -21,6 +21,7 @@ If you’re into IT, cloud, or just love geeking out over tech, let’s connect!
 * ✉️  You can contact me at [jorge3design@gmail.com](mailto:jorge3design@gmail.com)
 * 🚀  I'm currently working on [ActiveDirectoryHomeLab](https://github.com/JORGEBAYUELO/ActiveDirectoryHomeLab/blob/main/README.md#vmware-setup)
 * 🧠  I'm currently preparing for my CompTIA Network+ Certification
+* 🐧  I'm a Linux Enthusiast
 * ☕  I'm a Coffee Lover
 
 ### Skills
