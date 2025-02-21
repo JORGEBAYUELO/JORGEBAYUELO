@@ -1,20 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Bayuelo
 =====================================================================================================================================
 
-IT Specialist | Junior System Administrator
+DevOpos Engineer | System Administrator
 ------------------------------------------
 
 I’ve always been the kind of person who loves solving technical puzzles. My journey with technology started when I was 13 years old, tinkering with computers, troubleshooting issues, and eventually building my own PCs. That hands-on passion for IT naturally grew over the years, leading me to explore Linux, system administration, and cloud technologies.
 
-I originally worked as a Technical Artist in Unreal Engine, where I spent years troubleshooting complex issues, automating workflows, and optimizing 3D environments. But over time, I realized my real passion was in IT Support and System Administration so I made the leap into the field.
+I originally worked as a Technical Artist in Unreal Engine, where I spent years troubleshooting complex issues, automating workflows, and optimizing 3D environments. Over time, I realized my real passion was in IT operations, automation, and cloud computing, so I transitioned into System Administration and DevOps to pursue what truly excites me.
 
-Now, I focus on keeping systems running smoothly, solving IT problems, and making technology work better for people. I’ve earned my AWS Certified Cloud Practitioner and CompTIA A+ certifications, and I’m currently working on my CompTIA Network+ to strengthen my networking knowledge.
+Now, I focus on keeping systems running smoothly, automating IT operations, and optimizing cloud infrastructure. I have hands-on experience with Linux system administration, cloud services, automation with Bash and Python, and IT troubleshooting. I am also expanding my expertise in Infrastructure as Code, CI/CD pipelines, containerization, and monitoring solutions to build scalable and efficient systems.
 
-I’ve had hands-on experience with Linux system administration, AWS cloud services, IT troubleshooting, and system support. I love digging into technical issues, figuring things out, and making IT operations more efficient.
+I’m currently seeking opportunities in System Administration and DevOps, where I can leverage my experience in automation, cloud computing, and infrastructure management. My long-term goal is to become a DevOps Engineer, designing and implementing cloud-native solutions that improve efficiency and reliability.
 
-Right now, I’m looking for opportunities in IT Support and System Administration, but my long-term goal is to grow into a DevOps Engineer, where I can combine my love for automation, cloud computing, and problem-solving.
-
-If you’re into IT, cloud, or just love geeking out over tech, let’s connect! 🚀
+Technology is always evolving, and I thrive on learning new tools and solving complex challenges. Whether it’s optimizing workflows, automating repetitive tasks, or deploying infrastructure, I’m always looking for ways to make technology work better. If you share a passion for cloud computing, automation, or DevOps, let’s connect!🚀
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [Website](https://jorgebayuelo.com/)
