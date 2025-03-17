@@ -1,18 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Bayuelo
 =====================================================================================================================================
 
-DevOpos Engineer | System Administrator
-------------------------------------------
+Cloud DevOps Engineer & System Admin
+------------------------------------
 
-I’ve always been the kind of person who loves solving technical puzzles. My journey with technology started when I was 13 years old, tinkering with computers, troubleshooting issues, and eventually building my own PCs. That hands-on passion for IT naturally grew over the years, leading me to explore Linux, system administration, and cloud technologies.
+My journey into DevOps started with a strong technical foundation in 3D artistry and system administration, where I mastered troubleshooting, scripting, and infrastructure management. Over time, I transitioned into the DevOps field, combining my passion for automation, cloud technologies, and system optimization to streamline workflows and enhance operational efficiency.
 
-I originally worked as a Technical Artist in Unreal Engine, where I spent years troubleshooting complex issues, automating workflows, and optimizing 3D environments. Over time, I realized my real passion was in IT operations, automation, and cloud computing, so I transitioned into System Administration and DevOps to pursue what truly excites me.
+One of my recent DevOps accomplishments was deploying a secure and scalable AWS infrastructure using Terraform. I successfully automated AWS resource provisioning, resolved S3 bucket versioning and security group configuration issues, and optimized EC2 instance connectivity. This project reinforced my expertise in Infrastructure as Code (IaC), AWS security best practices, and cloud automation.
 
-Now, I focus on keeping systems running smoothly, automating IT operations, and optimizing cloud infrastructure. I have hands-on experience with Linux system administration, cloud services, automation with Bash and Python, and IT troubleshooting. I am also expanding my expertise in Infrastructure as Code, CI/CD pipelines, containerization, and monitoring solutions to build scalable and efficient systems.
+As part of my continuous learning, I have been preparing for the CompTIA Network+ certification, diving deep into networking fundamentals, security, and troubleshooting. This has strengthened my ability to design and maintain reliable network architectures, ensuring seamless connectivity for cloud-based environments.
 
-I’m currently seeking opportunities in System Administration and DevOps, where I can leverage my experience in automation, cloud computing, and infrastructure management. My long-term goal is to become a DevOps Engineer, designing and implementing cloud-native solutions that improve efficiency and reliability.
+I’m passionate about bridging the gap between development and operations by ensuring reliable, automated, and secure deployments. Whether it’s designing highly available AWS architectures, troubleshooting Linux-based systems, or optimizing CI/CD pipelines, I thrive on solving challenging infrastructure problems that others may struggle with.
 
-Technology is always evolving, and I thrive on learning new tools and solving complex challenges. Whether it’s optimizing workflows, automating repetitive tasks, or deploying infrastructure, I’m always looking for ways to make technology work better. If you share a passion for cloud computing, automation, or DevOps, let’s connect!🚀
+What sets me apart is my ability to troubleshoot across multiple environments, from Linux servers to cloud-based deployments. My expertise in AWS, Terraform, Bash scripting, and system administration allows me to deliver scalable, efficient, and resilient infrastructures.
+
+As I continue refining my DevOps toolkit, I look forward to leveraging my skills to automate, optimize, and innovate within cloud environments, making technology work smarter, not harder.
+
+If you share a passion for cloud computing, automation, or DevOps, let’s connect!🚀
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [Website](https://jorgebayuelo.com/)
