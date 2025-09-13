@@ -1,28 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Bayuelo
 =====================================================================================================================================
 
-Cloud DevOps Engineer & System Admin
+Cloud DevOps Engineer
 ------------------------------------
 
-My journey into DevOps started with a strong technical foundation in 3D artistry and system administration, where I mastered troubleshooting, scripting, and infrastructure management. Over time, I transitioned into the DevOps field, combining my passion for automation, cloud technologies, and system optimization to streamline workflows and enhance operational efficiency.
+I’m a DevOps Engineer with 4+ years of experience building scalable cloud infrastructures, automating deployments, and streamlining CI/CD workflows. My expertise spans AWS, Terraform, Kubernetes, Linux systems, and Bash scripting, with a strong focus on automation, reliability, and security.
 
-One of my recent DevOps accomplishments was deploying a secure and scalable AWS infrastructure using Terraform. I successfully automated AWS resource provisioning, resolved S3 bucket versioning and security group configuration issues, and optimized EC2 instance connectivity. This project reinforced my expertise in Infrastructure as Code (IaC), AWS security best practices, and cloud automation.
+I’ve designed and deployed secure, production-ready AWS environments using Infrastructure as Code, optimized EC2 networking and S3 configurations, and implemented CI/CD pipelines that reduce deployment friction while increasing stability. I thrive on troubleshooting complex infrastructure challenges and ensuring seamless collaboration between development and operations.
 
-As part of my continuous learning, I have been preparing for the CompTIA Network+ certification, diving deep into networking fundamentals, security, and troubleshooting. This has strengthened my ability to design and maintain reliable network architectures, ensuring seamless connectivity for cloud-based environments.
-
-I’m passionate about bridging the gap between development and operations by ensuring reliable, automated, and secure deployments. Whether it’s designing highly available AWS architectures, troubleshooting Linux-based systems, or optimizing CI/CD pipelines, I thrive on solving challenging infrastructure problems that others may struggle with.
-
-What sets me apart is my ability to troubleshoot across multiple environments, from Linux servers to cloud-based deployments. My expertise in AWS, Terraform, Bash scripting, and system administration allows me to deliver scalable, efficient, and resilient infrastructures.
-
-As I continue refining my DevOps toolkit, I look forward to leveraging my skills to automate, optimize, and innovate within cloud environments, making technology work smarter, not harder.
-
-If you share a passion for cloud computing, automation, or DevOps, let’s connect!🚀
+What sets me apart is a strong foundation in system administration and hands-on problem solving across Linux servers, cloud platforms, and containerized environments. I’m passionate about building resilient systems that scale efficiently, reduce manual effort, and align with best practices.
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [Website](https://jorgebayuelo.com/)
-* ✉️  You can contact me at [jorge3design@gmail.com](mailto:jorge3design@gmail.com)
-* 🚀  I'm currently working on [ActiveDirectoryHomeLab](https://github.com/JORGEBAYUELO/ActiveDirectoryHomeLab/blob/main/README.md#vmware-setup)
-* 🧠  I'm currently preparing for my CompTIA Network+ Certification
+* ✉️  You can contact me at [jlbayuelo@gmail.com](mailto:jlbayuelo@gmail.com)
+* 🧠  I'm currently preparing for my CompTIA Network+ & Security+ Certifications
 * 🐧  I'm a Linux Enthusiast
 * ☕  I'm a Coffee Lover
 
