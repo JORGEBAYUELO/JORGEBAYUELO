@@ -36,14 +36,14 @@ With a strong foundation in **Linux systems administration** and automation, I t
 ### Tech Stack
 
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" width="40" height="40" alt="AWS" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-terraform.svg" width="40" height="40" alt="Terraform" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" width="40" height="40" alt="Kubernetes" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="40" height="40" alt="Docker" /></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="40" height="40" alt="Linux" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="40" height="40" alt="Git" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" width="40" height="40" alt="Bash" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" width="40" height="40" alt="Python" /></a>
+  <a href="https://aws.amazon.com" target="_blank" style="margin: 0 12px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" width="45" height="45" alt="AWS" /></a>
+  <a href="https://www.terraform.io/" target="_blank" style="margin: 0 12px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-terraform.svg" width="40" height="40" alt="Terraform" /></a>
+  <a href="https://kubernetes.io/" target="_blank" style="margin: 0 12px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://www.docker.com/" target="_blank" style="margin: 0 12px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://www.linux.org" target="_blank" style="margin: 0 12px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://git-scm.com/" target="_blank" style="margin: 0 12px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="40" height="40" alt="Git" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" style="margin: 0 12px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" width="40" height="40" alt="Bash" /></a>
+  <a href="https://www.python.org/" target="_blank" style="margin: 0 12px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" width="40" height="40" alt="Python" /></a>
 </p>
 
 ---
@@ -51,9 +51,9 @@ With a strong foundation in **Linux systems administration** and automation, I t
 ### Socials  
 
 <p align="center">
-  <a href="https://github.com/JORGEBAYUELO" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="40" /></a>
-  <a href="https://www.linkedin.com/in/jorgebayuelo/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="40" /></a>
-  <a href="https://www.youtube.com/@jbtechhub" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube.svg" height="40" /></a>
+  <a href="https://github.com/JORGEBAYUELO" target="_blank" style="margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="45" /></a>
+  <a href="https://www.linkedin.com/in/jorgebayuelo/" target="_blank" style="margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="45" /></a>
+  <a href="https://www.youtube.com/@jbtechhub" target="_blank" style="margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube.svg" height="45" /></a>
 </p>
 
 ---
