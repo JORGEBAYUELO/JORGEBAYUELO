@@ -51,9 +51,9 @@ With a strong foundation in **Linux systems administration** and automation, I t
 ### Socials  
 
 <p align="center">
-  <a href="https://github.com/JORGEBAYUELO" target="_blank" style="margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="45" /></a>
-  <a href="https://www.linkedin.com/in/jorgebayuelo/" target="_blank" style="margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="45" /></a>
-  <a href="https://www.youtube.com/@jbtechhub" target="_blank" style="margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube.svg" height="45" /></a>
+  <a href="https://github.com/JORGEBAYUELO" target="_blank" style="margin: 0 100px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="35" /></a>
+  <a href="https://www.linkedin.com/in/jorgebayuelo/" target="_blank" style="margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="35" /></a>
+  <a href="https://www.youtube.com/@jbtechhub" target="_blank" style="margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube.svg" height="35" /></a>
 </p>
 
 ---
