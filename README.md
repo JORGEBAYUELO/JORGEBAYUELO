@@ -1,5 +1,5 @@
-Hi, My name is Jorge Bayuelo
-=====================================================================================================================================
+<h1 align="center">Hi, I'm Jorge Bayuelo</h1>
+<h3 align="center">Cloud DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD | Linux</h3>
 
 Cloud DevOps Engineer
 ------------------------------------
