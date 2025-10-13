@@ -62,11 +62,11 @@ With a strong foundation in **Linux systems administration** and automation, I t
 
 <p align="center">
   <a href="https://github.com/JORGEBAYUELO">
-    <img src="https://github-readme-stats.vercel.app/api?username=JORGEBAYUELO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JORGEBAYUELO&show_icons=true&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&bg_color=181825&hide_border=true" alt="GitHub Stats" />
   </a>
-  <br/>
+  <br/><br/>
   <a href="https://github.com/JORGEBAYUELO">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JORGEBAYUELO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JORGEBAYUELO&background=181825&ring=b4befe&fire=f5c2e7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cdd6f4&dates=bac2de&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
