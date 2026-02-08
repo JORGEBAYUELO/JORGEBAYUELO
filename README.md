@@ -27,7 +27,7 @@ With a strong foundation in **Linux systems administration** and automation, I t
 - 🌍 **Location:** Dallas, TX  
 - 🖥️ **Portfolio:** [jorgebayuelo.com](https://jorgebayuelo.com)  
 - ✉️ **Email:** [jlbayuelo@gmail.com](mailto:jlbayuelo@gmail.com)  
-- 🧠 **Currently Learning:** CompTIA Network+ & Security+  
+- 🧠 **Currently Learning:** CompTIA Security+  
 - 🐧 **Linux Enthusiast**  
 - ☕ **Fueled by Coffee and Curiosity**
 
