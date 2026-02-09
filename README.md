@@ -5,20 +5,21 @@
 
 ### About Me  
 
-I’m an **IT Professional** passionate about creating infrastructure that helps teams move faster, deploy confidently, and operate reliably. My work focuses on **bridging the gap between development and operations**, ensuring systems are **scalable, secure, and maintainable** in real-world production environments.
+I’m an **IT Professional** with a strong foundation in systems administration, user support, and infrastructure operations. I focus on keeping systems **stable, secure, and efficient** while supporting end users and business-critical services in real-world environments.
 
-What I bring to an organization is the ability to **build and optimize cloud infrastructure that directly supports business goals**, from faster releases to lower operational costs. I’ve built production-ready AWS environments with **Terraform**, automated deployments via **CI/CD pipelines**, and managed containerized workloads with **Kubernetes**.  
+My background spans desktop support, Linux and Windows system administration, and cloud-based infrastructure. I enjoy working close to the systems themselves, troubleshooting issues, improving reliability, and automating repetitive tasks to reduce operational friction.  
 
-With a strong foundation in **Linux systems administration** and automation, I thrive on troubleshooting complex environments and helping teams deliver software efficiently and reliably. I’m particularly drawn to environments that value **continuous improvement, collaboration, and well-architected automation**.  
+I bring a practical, hands-on mindset to IT operations: understanding how systems behave in production, responding calmly under pressure, and continuously improving processes through documentation and automation. I’m especially interested in roles where I can grow deeper into systems administration while contributing to operational excellence. 
 
 ---
 
 ### Core Focus Areas  
 
-- **Cloud Infrastructure:** Designing and maintaining AWS environments using Infrastructure as Code (Terraform).  
-- **Automation & CI/CD:** Building pipelines that improve release frequency and reduce manual steps.  
-- **Containerization:** Managing Kubernetes clusters and Docker workloads for scalable applications.  
-- **System Reliability:** Enhancing monitoring, performance, and security across Linux-based systems.  
+- **Systems Administration:** Managing Linux and Windows systems, user access, permissions, and system health.   
+- **IT Operations & Support:** Troubleshooting hardware, software, and network issues; supporting end users effectively.  
+- **Cloud & Infrastructure:** Working with AWS environments and infrastructure as code concepts.
+- **Automation & Scripting:** Reducing manual work through scripting and operational automation.
+- **Security Fundamentals:** Applying best practices for system hardening and access control. 
 
 ---
 
