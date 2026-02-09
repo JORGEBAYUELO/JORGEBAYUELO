@@ -5,11 +5,11 @@
 
 ### About Me  
 
-I’m an **IT Professional** with a strong foundation in systems administration, user support, and infrastructure operations. I focus on keeping systems **stable, secure, and efficient** while supporting end users and business-critical services in real-world environments.
+I’m an **IT Professional** with a strong foundation in systems administration, user support, and infrastructure operations. I focus on keeping systems **stable, secure, and efficient** while supporting end users and business critical services in real world environments.
 
-My background spans desktop support, Linux and Windows system administration, and cloud-based infrastructure. I enjoy working close to the systems themselves, troubleshooting issues, improving reliability, and automating repetitive tasks to reduce operational friction.  
+My background spans desktop support, Linux and Windows system administration, and cloud based infrastructure. I enjoy working close to the systems themselves, troubleshooting issues, improving reliability, and automating repetitive tasks to reduce operational friction.  
 
-I bring a practical, hands-on mindset to IT operations: understanding how systems behave in production, responding calmly under pressure, and continuously improving processes through documentation and automation. I’m especially interested in roles where I can grow deeper into systems administration while contributing to operational excellence. 
+I bring a practical, hands-on mindset to IT operations, understanding how systems behave in production, responding calmly under pressure, and continuously improving processes through documentation and automation. I’m especially interested in roles where I can grow deeper into systems administration while contributing to operational excellence. 
 
 ---
 
