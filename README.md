@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jorge Bayuelo</h1>
-<h3 align="center">Cloud DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD | Linux</h3>
+<h3 align="center">IT Specialist | Systems Administrator | Linux | Windows | AWS | Automation</h3>
 
 ---
 
