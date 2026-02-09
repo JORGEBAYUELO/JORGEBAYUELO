@@ -5,7 +5,7 @@
 
 ### About Me  
 
-I’m a **Cloud DevOps Engineer** passionate about creating infrastructure that helps teams move faster, deploy confidently, and operate reliably. My work focuses on **bridging the gap between development and operations**, ensuring systems are **scalable, secure, and maintainable** in real-world production environments.
+I’m an **IT Professional** passionate about creating infrastructure that helps teams move faster, deploy confidently, and operate reliably. My work focuses on **bridging the gap between development and operations**, ensuring systems are **scalable, secure, and maintainable** in real-world production environments.
 
 What I bring to an organization is the ability to **build and optimize cloud infrastructure that directly supports business goals**, from faster releases to lower operational costs. I’ve built production-ready AWS environments with **Terraform**, automated deployments via **CI/CD pipelines**, and managed containerized workloads with **Kubernetes**.  
 
