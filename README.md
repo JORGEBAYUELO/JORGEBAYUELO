@@ -42,6 +42,7 @@ I bring a practical, hands-on mindset to IT operations, understanding how system
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" width="40" height="40" alt="Kubernetes" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="40" height="40" alt="Docker" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="40" height="40" alt="Linux" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/windows-11.webp" width="40" height="40" alt="Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="40" height="40" alt="Git" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" width="40" height="40" alt="Bash" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" width="40" height="40" alt="Python" /></a>
